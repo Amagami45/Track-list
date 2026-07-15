@@ -3,6 +3,9 @@ TrackList - your new travel companion
 
 Track list is a simple and gamified app that helps you keep track of your travel lists. You can use it to keep track of items you need to pack.
 
+## Why I built this
+I travel often and always forget something, so I built TrackList to make packiging easier and funnier. It's a tool that solves all my traveling problems.
+
 ## Features
 - Clean and minimalistic interface
 - Easy list management
