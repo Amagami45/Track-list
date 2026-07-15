@@ -22,4 +22,11 @@ You can download the latest APK in the Releases section
 ## Licence
 This project is licensed under GNU GPL v.2.
 
+## Pictures
+<img width="578" height="447" alt="Snímek obrazovky 2026-07-15 115053" src="https://github.com/user-attachments/assets/4fe43331-e68e-4254-8351-4b99b4a99f20" />
+<img width="573" height="1036" alt="Snímek obrazovky 2026-07-15 115040" src="https://github.com/user-attachments/assets/1f96a240-8335-4d82-9aa3-2223d8397e2c" />
+<img width="583" height="985" alt="Snímek obrazovky 2026-07-15 115023" src="https://github.com/user-attachments/assets/e6d2f84f-a0b1-4b3d-9114-f1798763d136" />
+<img width="591" height="928" alt="Snímek obrazovky 2026-07-15 114959" src="https://github.com/user-attachments/assets/9f732025-9f67-4eef-81cc-3dfe4be3c189" />
+
+
 
