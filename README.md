@@ -21,7 +21,7 @@ You can download the latest APK in the Releases section
 -WebIntoApp(APK build from website)
 
 ## Licence
-This project is licensed under GNU GPL v.2.
+This project is licensed under MPL 2.0.
 
 ## Pictures
 <img width="578" height="447" alt="Snímek obrazovky 2026-07-15 115053" src="https://github.com/user-attachments/assets/4fe43331-e68e-4254-8351-4b99b4a99f20" />
