@@ -20,6 +20,6 @@ You can download the latest APK in the Releases section
 -WebIntoApp(APK build from website)
 
 ## Licence
-This project is licensed under GPL.
+This project is licensed under GNU GPL v.2.
 
 
